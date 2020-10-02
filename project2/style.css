@@ -1,0 +1,13 @@
+﻿body {
+    color:white;
+    background-image:url("image/background.png");
+   
+}
+header {
+    color: white;
+    text-align: center;
+    font-size:50px;
+}
+form{
+    font-size:20px;
+}

@@ -1,0 +1,9 @@
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\bin\Release\MusicStoreLibrary.dll
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\bin\Release\MusicStoreLibrary.pdb
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\bin\Release\Utilities.dll
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\bin\Release\Utilities.pdb
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\obj\Release\MusicStoreLibrary.csprojAssemblyReference.cache
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\obj\Release\MusicStoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\obj\Release\MusicStoreLibrary.csproj.CopyComplete
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\obj\Release\MusicStoreLibrary.dll
+C:\Users\rutvi\source\repos\project2\MusicStoreLibrary\obj\Release\MusicStoreLibrary.pdb
