@@ -1,5 +1,0 @@
-﻿INSERT INTO [dbo].[Songs] ([SongID], [SongTitle], [MusicArtist], [Genre], [Cost], [TotalPurchases]) VALUES (1, N'Old Town Road', N'Lil Nas X', N'Rap', 12, 30)
-INSERT INTO [dbo].[Songs] ([SongID], [SongTitle], [MusicArtist], [Genre], [Cost], [TotalPurchases]) VALUES (2, N'Money In The Grave', N'Drake', N'Rap', 9, 20)
-INSERT INTO [dbo].[Songs] ([SongID], [SongTitle], [MusicArtist], [Genre], [Cost], [TotalPurchases]) VALUES (3, N'Only Human', N'KH', N'Country', 2, 12)
-INSERT INTO [dbo].[Songs] ([SongID], [SongTitle], [MusicArtist], [Genre], [Cost], [TotalPurchases]) VALUES (4, N'Circles', N'Post Malone', N'R&B', 4, 10)
-INSERT INTO [dbo].[Songs] ([SongID], [SongTitle], [MusicArtist], [Genre], [Cost], [TotalPurchases]) VALUES (5, N'Yummy', N'Justin Bieber', N'Pop', 3, 15)
